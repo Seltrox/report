@@ -1,0 +1,4 @@
+name: Report
+version: ${project.version}
+author: Seltrox
+main: de.seltrox.report.ReportPlugin
